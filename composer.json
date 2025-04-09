@@ -1,0 +1,12 @@
+{
+    "require": {
+        "meethour/php-sdk": "^1.0",
+        "meethour/meethour-ical-generator": "dev-master"
+    },
+    "repositories": [
+        {
+            "url": "https://github.com/v-empower/meethour-ical-generator.git",
+            "type": "git"
+        }
+    ]
+}
